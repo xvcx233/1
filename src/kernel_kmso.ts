@@ -1,0 +1,1 @@
+const service_kmso = <T>(args: T): T => { return args; };
